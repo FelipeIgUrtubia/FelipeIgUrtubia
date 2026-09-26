@@ -12,6 +12,7 @@ Soy estudiante de Técnico en Ciberseguridad orientado al área defensiva (Blue 
 - Detection Engineering & DFIR - proyección a largo plazo
 
 ### En formación
+- Técnico en Ciberseguridad (último trimestre)
 - Google Cybersecurity Professional Certificate
 - se irá actualizando.
 
