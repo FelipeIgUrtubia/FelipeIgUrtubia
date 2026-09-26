@@ -14,7 +14,6 @@ Soy estudiante de Técnico en Ciberseguridad orientado al área defensiva (Blue 
 ### En formación
 - Técnico en Ciberseguridad (último trimestre)
 - Google Cybersecurity Professional Certificate
-- se irá actualizando.
 
 ### Contacto
 - LinkedIn: https://www.linkedin.com/in/felipeignaciourtubia/
