@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola! soy Felipe 
 
-<!--
-**FelipeIgUrtubia/FelipeIgUrtubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante Técnico en Ciberseguridad | Blue Team / SOC en formación**
 
-Here are some ideas to get you started:
+Soy estudiante de Técnico en Ciberseguridad orientado al área defensiva (Blue Team), con especial interés en el análisis de alertas y la investigación de amenazas. Me mantengo en formación constante y aporto pensamiento analítico, aprendizaje autónomo y documentación detallada al monitoreo, la detección y la respuesta ante incidentes de seguridad. Me motiva proteger a las personas y a las organizaciones, resguardando la confidencialidad, integridad y disponibilidad de sus datos y operaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Áreas de interés
+- Blue Team / SOC - monitoreo, detección y respuesta ante amenazas
+- Cloud Security - seguridad en entornos cloud
+- Detection Engineering & DFIR - proyección a largo plazo
+
+### En formación
+- Google Cybersecurity Professional Certificate
+- se irá actualizando.
+
+### Contacto
+- LinkedIn: https://www.linkedin.com/in/felipeignaciourtubia/
