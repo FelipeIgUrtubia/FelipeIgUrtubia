@@ -1,16 +1,24 @@
 ## Hola! soy Felipe 
 
-**Estudiante Técnico en Ciberseguridad | Blue Team / SOC en formación**
+**Estudiante Técnico en Ciberseguridad |  Seguridad de la información, sistemas informáticos y cloud computing**
 
-Soy estudiante de Técnico en Ciberseguridad orientado al área defensiva (Blue Team), con especial interés en el análisis de alertas y la investigación de amenazas. Me mantengo en formación constante y aporto pensamiento analítico, aprendizaje autónomo y documentación detallada al monitoreo, la detección y la respuesta ante incidentes de seguridad. Me motiva proteger a las personas y a las organizaciones, resguardando la confidencialidad, integridad y disponibilidad de sus datos y operaciones.
+Estudiante de último año de Técnico en Ciberseguridad, enfocado en la **seguridad de la información y de los sistemas**, con especial interés en la **investigación de amenazas** y el **análisis de vulnerabilidades**. Disfruto trabajar directamente sobre los sistemas —explorarlos, comprenderlos y ponerlos a prueba—, aportando pensamiento analítico, aprendizaje autónomo y documentación detallada. Me motiva proteger a las personas y a las organizaciones, resguardando la **confidencialidad, integridad y disponibilidad** de sus datos.
+
 
 ---
 
 ### Áreas de interés
-- Blue Team / SOC - monitoreo, detección y respuesta ante amenazas
-- Cloud Security - seguridad en entornos cloud
-- Detection Engineering & DFIR - proyección a largo plazo
+- **Seguridad de la información y de los sistemas** — análisis de vulnerabilidades e investigación de amenazas
+- **Cloud Security** — seguridad en entornos cloud (AWS)
+- **Análisis técnico e investigación** — tráfico de red, logs e incidentes
 
+### Stack y herramientas
+- **Sistemas:** Linux (Bash), Windows
+- **Cloud:** AWS (fundamentos, servicios y seguridad en la nube)
+- **Redes:** TCP/IP, DNS, análisis de tráfico (tcpdump / Wireshark)
+- **Scripting:** Python
+- **Control de versiones:** Git · GitHub
+  
 ### En formación
 - Técnico en Ciberseguridad (último trimestre)
 - Google Cybersecurity Professional Certificate
