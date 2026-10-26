@@ -1,6 +1,6 @@
-## Hola! soy Felipe 
+## Hola, soy Felipe!
 
-**Estudiante Técnico en Ciberseguridad |  Seguridad de la información, sistemas informáticos y cloud computing**
+**Estudiante Técnico en Ciberseguridad |  Seguridad de la información, Sistemas informáticos y Cloud Computing**
 
 Estudiante de último año de Técnico en Ciberseguridad, enfocado en la **seguridad de la información y de los sistemas informáticos**, con especial interés en la **investigación de amenazas** y el **análisis de vulnerabilidades**. Disfruto trabajar directamente sobre los sistemas —explorarlos, comprenderlos y ponerlos a prueba—, aportando pensamiento analítico, aprendizaje autónomo y documentación detallada. Me motiva proteger a las personas y a las organizaciones, resguardando la **confidencialidad, integridad y disponibilidad** de sus datos.
 
