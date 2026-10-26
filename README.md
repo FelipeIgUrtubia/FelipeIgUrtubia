@@ -1,4 +1,4 @@
-## Hola, soy Felipe!
+## Hola soy Felipe!
 
 **Estudiante Técnico en Ciberseguridad |  Seguridad de la información, Sistemas informáticos y Cloud Computing**
 
