@@ -9,7 +9,7 @@ Estudiante de último año de Técnico en Ciberseguridad, enfocado en la **segur
 
 ### Áreas de interés
 - **Seguridad de la información y de los sistemas** — análisis de vulnerabilidades e investigación de amenazas
-- **Cloud Security** — seguridad en entornos cloud (AWS)
+- **Cloud Security** — seguridad en entornos cloud 
 - **Análisis técnico e investigación** — tráfico de red, logs e incidentes
 
 ### Stack y herramientas
